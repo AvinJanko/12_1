@@ -227,7 +227,10 @@ body {
     padding: 10px;
 }
 
-
+iframe {
+	width: 600px;
+	height: auto;
+}
 
 
 
